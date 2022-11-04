@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Rachel Resende",
+    "occupation": "Product Manager",
+    "description": "Creative problem solver with experience in startup environment",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Rachel! I am graduated in Advertising from IBMR and I have a specialization in Marketing Management from IBMEC. I am passionate about technology and everything new. I work developing culture of innovation and analytics at Hurb managing education digital products as a Data Ambassador and in my free time I am part of the WTM in Rio de Janeiro, a volunteer community promoted by Google that encourages more women in technology. I have experience mainly with digital commercial operation performance and product marketing, having worked in companies such as Globosat, Globo, Cyberlabs and Stone.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "rachelrfernandes18@gmail.com",
+    "phone": "+55 21 99672 9569",
+    "address": {
+      "street": "...",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "zip": "..."
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rachel-resende/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rachelresende_/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+    "education": [
+      {
+        "school": "Descomplica",
+        "degree": "Bacharelor's Degree in Computer Science",
+        "graduated": "In course",
+        "description": "Descomplica is one of the biggest digital educational plataform in Brazil. The        course is focused in fullstack  development."
+      },
+      {
+        "school": "IBMEC",
+        "degree": "Post Degree in Marketing Management",
+        "graduated": "January 2017 - December 2019",
+        "description": "IBMEC is a Brazilian private university, widely regarded as one of the leading and most prestigious institutions specialized in teaching and research in the fields of Business and Economics in   Latin America."
+      },
+      {
+        "school": "IBMR",
+        "degree": "Bacharelor's Degree in Social Communication",
+        "graduated": "January 2013 - December 2016",
+        "description": "IBMR is a big Brazilian private university that is part of the Laureate International Group."
+      }
+    ],
+    "work": [
+      {
+        "company": "HURB",
+        "title": "Data Ambassador (ProductManager, Data & Training)",
+        "years": "November 2021 - present",
+        "description": "Hurb (formerly Hotel Urbano) is the largest online travel agency based in Brazil. This position is equivalent to a Product Manager, but with focus on digital educational products of data analytics. I helped founding Hurb's Data School, that is a internal platform that teaches data driven culture for our employees."
+      },
+      {
+        "company": "Stone Co",
+        "title": "Product Marketing Specialist",
+        "years": "May 2021 - November 2021",
+        "description": "Stone is a leading provider of financial technology solutions that empower merchants and integrated partners to conduct electronic commerce seamlessl across in-store, online, and mobile channels. I worked in Marketing department on management CRM products."
+      },
+      {
+        "company": "Cyberlabs",
+        "title": "Product Marketing Manager",
+        "years": "August 2020 - May 2021",
+        "description": "Cyberlabs is a laboratory of technological development formed by the merger of two leaders in their segments: PSafe, an authority on cybersecurity; and CyberLabs, a reference in disruptive AI solutions. My main duties were: be responsible for marketing of an application product (KeyApp) in the Brazilian market, define go-tomarket strategy for KeyApp, set goals, manage releases and implement activations to drive adoption and work with sales team and customer team to identify opportunities"
+      },
+      {
+        "company": "Globo",
+        "title": "Digital AdOps Analyst, Finance and Automobilist",
+        "years": "January 2016 - July 2020",
+        "description": "Globo is the largest media group in Brazil and controls the leading broadcast television network and the leading pay-TV programmer in Brazil. I was responsible for the exclusive customer service for advertisers in the financial and automotive sector of Globo's pay channels. Among them: Bradesco, Renault, Pic Pay, Ford, Jeep and Itaú. Besides that, I created many dashboards for daily monitoring of campaign results and research to drive insights, sales and brand awareness."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Product Management",
+        "level": "85%"
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "90%"
+      },
+      {
+        "name": "Data Driven Decision",
+        "level": "90%"
+      },
+      {
+        "name": "Leadership",
+        "level": "80%"
+      }
+    ]
+  }  
+}
